@@ -770,9 +770,6 @@ LockerBlueShieldFilledUplink: LockerBlueShieldEnsignFilled
 LockerBlueShieldFilledUplinkMultiphase: LockerBlueShieldEnsignFilled
 GunSafeBlueShield: null
 SpawnPointBlueShield: SpawnPointBlueShieldOfficer
-SuitStorageBlueShield: null
-LockerBlueShieldEnsignFilled: null
-LockerBlueShieldOfficerFilled: null
 PoweredLightBlueInterior: null
 RandomItem: null
 TableWoodReinforced: null
@@ -791,8 +788,17 @@ BorgModuleDefibrillator: null
 MagazineM16A4: null
 MagazineG36: null
 MagazineFamas: null
-# Sunrise migrations end
+BaseUplinkNTERT75BC: null
+BaseUplinkNTERT100BC: null
+BaseUplinkNTERT200BC: null
+# AtmosDeviceFanTiny: null #Fish-edit
+# AtmosDeviceFanDirectional: null #Fish-edit
+# Sunrise-End
 
+#Fish-start
+MechSecPod: null
+SpawnMechSecPodFilled: null
+#Fish-end
 # Lust migrations
 VendingMachineCoffeeMigrateUnderwear: VendingMachineUnderwear
 VendingMachineDonutMigrateKinko: VendingMachineKink
